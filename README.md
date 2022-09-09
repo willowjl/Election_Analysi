@@ -46,7 +46,7 @@ Candidate 1, Diana DeGette, with ~74% of the total votes and 272,892 number of v
 ###    Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
     ![Candidte Distribution](https://github.com/willowjl/Election_Analysis/blob/main/CandidateDistribution.png)
 ###    Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-###    Diana DeGette ~~ <sub>Anyone but Trump<sub> ~~ won the election with 272,892 votes, 73.8% of the total voters.
+###    Diana DeGette ~~Anyone but Trump~~ won the election with 272,892 votes, 73.8% of the total voters.
 
 ## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 ### The challenge script can be refactored to calculate general presidential election for the country. The data would be a lot bigger in that case. The formula to determine the winning president would be updated to reflect the constitution requirement. Instead of just popular votes, we would need to capture which candidate received 270 votes from the electoral college, more than half of all electors in the country.
