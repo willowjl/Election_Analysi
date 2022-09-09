@@ -30,5 +30,25 @@ Candidate 3 received 3.1% of the vote and 11,606 number of votes.
 The winner of the election was:
 Candidate 1, Diana DeGette, with ~74% of the total votes and 272,892 number of votes.
 
-##Challenege Overview
-##Challenge Summary
+#Challenege Overview
+
+##Overview of Election Audit: Explain the purpose of this election audit analysis.
+### The election Audit challenge was a simple task that demanded a good understanding of the Python Programming language. The task was to analyze a CSV file containing raw election data for 3 counties and 3 candidates. The output of that analysis would help determine the voting ratio for all each county and each candidate. In addition, the analysis would also provide the winnning candidate and the county with the biggest voter.
+
+##Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+
+###   How many votes were cast in this congressional election?
+###   A total of 369,711 votes were casted during the congressional election.
+###    Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+    ![Voting Distribution](https://github.com/willowjl/Election_Analysis/blob/main/votingDistribution.png)
+###    Which county had the largest number of votes?
+###    The county with largest number of votes is Denver with 306,055 votes, gathering 82.8% of the total votes across all 3 counties.
+###    Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+    ![Candidte Distribution](https://github.com/willowjl/Election_Analysis/blob/main/CandidateDistribution.png)
+###    Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+###    Diana DeGette ~~ <sub>Anyone but Trump<sub> ~~ won the election with 272,892 votes, 73.8% of the total voters.
+
+## Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+### The challenge script can be refactored to calculate general presidential election for the country. The data would be a lot bigger in that case. The formula to determine the winning president would be updated to reflect the constitution requirement. Instead of just popular votes, we would need to capture which candidate received 270 votes from the electoral college, more than half of all electors in the country.
+### On a smaller scale, the same script could be use to determine local mayors' election result for numerous town.
+
