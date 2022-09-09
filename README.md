@@ -40,11 +40,11 @@ Candidate 1, Diana DeGette, with ~74% of the total votes and 272,892 number of v
 ###   How many votes were cast in this congressional election?
 ###   A total of 369,711 votes were casted during the congressional election.
 ###    Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-    ![Voting Distribution](/votingDistribution.png)
+    ![Voting Distribution](votingDistribution.png)
 ###    Which county had the largest number of votes?
 ###    The county with largest number of votes is Denver with 306,055 votes, gathering 82.8% of the total votes across all 3 counties.
 ###    Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-    ![Candidte Distribution](/CandidateDistribution.png)
+    ![Candidte Distribution](CandidateDistribution.png)
 ###    Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 ###    Diana DeGette ~~Anyone but Trump~~ won the election with 272,892 votes, 73.8% of the total voters.
 
